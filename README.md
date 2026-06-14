@@ -290,6 +290,19 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
   - GitHub: [@avneesh](https://github.com/Avneesh-kun/CampusConnect)
   - Email: avneeshk0606@gmail.com
 
+- **Khush** - Data Analyst
+  - GitHub: [@khush](https://github.com/khush-84)
+  - Email: kusht8056@gmail.com
+
+- **Maaz Aftab** - Java Developer
+  - GitHub: [@Maaz](https://github.com/maazaftab17)
+  - Email: maazaftab17@gmail.com
+ 
+- **Mayank Kumar Chauhan** - Software Engineer
+  - GitHub: [@mayank](https://github.com/Mayank-rep1)
+  - Email: mayankchauhan6888@gmail.com
+
+
 ## 🙏 Acknowledgments
 
 - Material-UI team for amazing UI components
