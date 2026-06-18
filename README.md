@@ -6,6 +6,7 @@
 [![Frontend: React](https://img.shields.io/badge/Frontend-React%2018-blue)](https://reactjs.org/)
 [![Backend: Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203-brightgreen)](https://spring.io/projects/spring-boot)
 [![Database: MySQL](https://img.shields.io/badge/Database-MySQL%208.0-orange)](https://www.mysql.com/)
+[![Deployment: Render](https://img.shields.io/badge/Deployment-Render-7B3FF2)](https://render.com)
 
 ## 📋 Table of Contents
 
@@ -16,6 +17,7 @@
 - [Quick Start](#quick-start)
 - [Installation](#installation)
 - [Running Locally](#running-locally)
+- [Deployment](#deployment)
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
 - [License](#license)
@@ -178,6 +180,14 @@ Frontend runs on: `http://localhost:3000`
 - **Admin:** 
   - Email: `admin@campusconnect.com`
   - Password: `admin123`
+
+## 🌐 Deployment
+
+CampusConnect is deployed on Render and Vercel:
+
+- **Frontend:** https://campusconnect-frontend-6j8c.onrender.com
+- **Backend:** https://campusconnect-1-83dn.onrender.com
+For detailed deployment instructions, see [DEPLOYMENT.md](./docs/DEPLOYMENT.md)
 
 
 ## 📚 Documentation
